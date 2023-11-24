@@ -3,3 +3,7 @@
 ## Login methods
 
 - LDAP
+
+## Deployment
+
+- pwet !
